@@ -1,0 +1,6 @@
+{
+  "name": "CloudNotes",
+  "description": "A secure, cloud-based markdown note-taking app with real-time syncing and expiring share links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
